@@ -103,7 +103,7 @@ function Contact() {
                   value="New Inquiry"
                 />
                 <input type="hidden" name="_captcha" value="true" />
-                <input type="hidden" name="_next" value="" />
+                <input type="hidden" name="_next" value="https://portfolio-website-jrpatel47.vercel.app/" />
 
                 <div className="form_buttons">
                   <button type="reset" className="f_button satoshi">
